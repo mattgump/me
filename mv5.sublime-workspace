@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"color-lv",
+				"color-lv6"
+			],
+			[
+				"fom",
+				"fontfamily-lv1"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"colo",
+				"color-lv3"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"color",
+				"color-primary"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"web",
+				"webkit-transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"A",
+				"alt	Attr"
+			],
+			[
+				"spac",
+				"word-spacing"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nav",
+				"navSwitch"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"email",
+				"emailSignup"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"set",
+				"setHeight"
+			],
+			[
+				"Du",
+				"Duke-Fill"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"gear",
+				"gearAnimate"
+			],
+			[
+				"lear",
+				"data-learnmoreurl"
+			],
+			[
+				"buy",
+				"data-buynowurl"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"chan",
+				"changeLang"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"vido",
+				"videoPanel"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"he",
+				"headerInfoWrapper"
+			],
+			[
+				"header",
+				"headerVideo"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"play",
+				"playbutton"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"lang",
+				"langSelect"
+			],
+			[
+				"lan",
+				"langInactive"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"t",
+				"top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/site_main.js",
+			"settings":
+			{
+				"buffer_size": 2830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/site_main.scss",
+			"settings":
+			{
+				"buffer_size": 12133,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mathewgump/mv5/Site/CHANGELOG.md",
+		"/Users/mathewgump/mv5/Site/doc/TOC.md",
+		"/Users/mathewgump/mv5/Site/README.md",
+		"/Users/mathewgump/mv5/Site/sass/_grid.scss",
+		"/Users/mathewgump/mv5/Site/sass/_helpers.scss",
+		"/Users/mathewgump/mv5/Site/sass/_reset.scss",
+		"/Users/mathewgump/mv5/Site/js/site_main.js",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/americanstory.sublime-workspace",
+		"/Users/mathewgump/mv5/Site/css/site_main.css",
+		"/Users/mathewgump/mv5/Site/sass/site_main.scss",
+		"/Users/mathewgump/mv5/Site/css/main.css",
+		"/Users/mathewgump/mv5/Site/sass/main.scss",
+		"/Users/mathewgump/mv5/Site/config.rb",
+		"/Users/mathewgump/mv5/Site/test/.sass-cache/af284cab8f6fffc6a1930b4c4d7db7a0e7c55cb6/screen.scssc",
+		"/Users/mathewgump/mv5/Site/sass/site_main.scss.css",
+		"/Users/mathewgump/Desktop/Mv5/Site/config.rb",
+		"/Users/mathewgump/Desktop/Mv5/Site/js/jquery-2.1.1.min.js",
+		"/Users/mathewgump/Desktop/Mv5/Site/mv5.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/framing-nailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/sp/framing-nailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/• 2013/130820_Heated Jacket Legal/Site/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/site_nailer.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/sp/OLD framing-nailer/index.html",
+		"/Users/mathewgump/Desktop/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/js/hoverintent.js",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins_min.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/maindewalt.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/colorbox.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/ENGLISH/framing-nailer/index 2.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/ENGLISH/framing-nailer/index.html",
+		"/Users/mathewgump/Desktop/DW American Story Form Code.txt",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/ASnailer.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/js/skrollr.js",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/css/maindewalt.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/css/footlocker.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/Site_ASnailer/css/tooltipster.css",
+		"/Users/mathewgump/Documents/Projects/• Black & Decker/140207_String Trimmer/• Site/css/bd_main.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_Framing Nailer/Site_nailer/nailer.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_Framing Nailer/Site_nailer/langsp.html",
+		"/Users/mathewgump/Desktop/site_flextorq/flextorq.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140225_Quiet Trim Compressor/Site_qtc/videos/dewaltvideo2.html",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mathewgump/Desktop/bd_main.css",
+		"/Users/mathewgump/Documents/Projects/• Black & Decker/140217_AutoSense/site_autosense/autosense.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140212_Marking:Chalk/Site_chalk/videos/dewaltvideo1.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140212_Marking:Chalk/Site_chalk/videos/bdvideo1.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140212_Marking:Chalk/Site_chalk/mailchimpUX.html",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_Framing Nailer/Site_nailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_Framing Nailer/Site_nailer/js/slidemenu.js",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_Framing Nailer/Site_nailer/css/slidemenu.css",
+		"/Users/mathewgump/Desktop/typeplate.css",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/mathewgump/Desktop/mailchimp_min.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131211_ Grease Gun Landing Page/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131211_ Grease Gun Landing Page/js/slidemenu.js",
+		"/Users/mathewgump/Desktop/heated jacket main/css/main.css",
+		"/Users/mathewgump/Desktop/site_bd20V/index.html",
+		"/Users/mathewgump/Desktop/site_bd20V/css/bd_main.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131211_ Grease Gun Landing Page/greasegun.sublime-workspace",
+		"/Users/mathewgump/Desktop/site_bd20V/20v.sublime-workspace",
+		"/Users/mathewgump/Desktop/site_mowerEvent/index.html",
+		"/Users/mathewgump/Desktop/site_mowerEvent/css/bd_main.css",
+		"/Users/mathewgump/Desktop/site/index.html",
+		"/Users/mathewgump/Desktop/131218_Dewalt Pmapp Email/HTML/index.html",
+		"/Users/mathewgump/Desktop/backup.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131220_DEWALT Best of Email/HTML/index.html",
+		"/Users/mathewgump/Desktop/BestBuy-email/Best Buy Email.webarchive.html",
+		"/Users/mathewgump/Desktop/RechargeYourYard/culture/en-us/pages/products/string-trimmers/CST800.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131125_Dewalt Holiday Email/HTML/index.html",
+		"/Users/mathewgump/Desktop/includetest/index.html",
+		"/Users/mathewgump/Desktop/RechargeYourYard/RYY.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/131101_WWP Landing Page/site_wwp/wwp.sublime-project",
+		"/Users/mathewgump/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<h3>Professio",
+			"        <a class=\"btn btn--fullWidth\" target=\"_blank\" href=\"\">Launch Site</a>\n",
+			"<div class=\"unit size1of1-xs size1of3-md\">",
+			"div class=\"line\">",
+			"  transition: all ease 0.25s;\n",
+			"  -webkit-transition: all ease 0.25s;\n",
+			"hanks",
+			"This is a test",
+			"success",
+			"90",
+			"200px",
+			"width",
+			"1s",
+			"margin",
+			"focus",
+			"this",
+			"hightlight",
+			"background",
+			"border: 1px solid $color-lv6",
+			"background",
+			"color: $color-lv2;",
+			"background: $color-lv5;",
+			"color:",
+			"primary",
+			"background",
+			"below18",
+			"<input",
+			"<label",
+			"label",
+			"10px",
+			"color",
+			"b2b2b2",
+			"c4c4c4",
+			"#5ec7f8",
+			"md",
+			"lg",
+			"960",
+			"      -moz-transform: scale(.9999);\n",
+			"l",
+			"md",
+			"sm",
+			"size",
+			"margin",
+			"1",
+			"width",
+			"2",
+			"intro",
+			"4c4c4c",
+			"1.1",
+			"05d",
+			"199c9c",
+			"fff",
+			"50",
+			"5b5b5b",
+			"intro",
+			"Intro",
+			"intro",
+			"contact",
+			"h2",
+			"a",
+			"#257f7f",
+			"fff",
+			"1000px",
+			"100px",
+			"wrapperSection",
+			"6",
+			"20",
+			"60",
+			"20",
+			"50",
+			"44",
+			"36",
+			"feature",
+			"wrapperProfile",
+			"../img/nailer/",
+			"nailer",
+			"right",
+			"../img/nailer",
+			"nailer",
+			"docs",
+			"strong",
+			"img/",
+			"nailer",
+			"../img",
+			"href=\"http://www.youtube.com/embed/eGK4xM4p_Uk?rel=0&autoplay=1&modestbranding=1&wmode=transparent&enablejsapi=1&version=3&iframe=true\"",
+			"../js",
+			"strong",
+			"10",
+			"20",
+			"banner",
+			"25",
+			"active",
+			"Navigation",
+			"$('.navSwitch')",
+			"$('.wrapperSiteNav')",
+			"Color Box",
+			"example",
+			"boldcond",
+			"            <div>",
+			"uppercase",
+			"Construction Concrete",
+			"32",
+			"35",
+			"30",
+			"_",
+			"v_lan",
+			"nav-lang",
+			"20",
+			"25",
+			"0",
+			"langNav",
+			"footer",
+			"footer-main",
+			"siteHeader",
+			"bground",
+			"headerMain",
+			"../img",
+			"tooltipster",
+			"Tooltipster",
+			"<script ",
+			"script",
+			"favicon.ico",
+			"G6yj9Ih-yYQ",
+			"OUvnKBDlEeo",
+			"&amp;",
+			"\"",
+			"&",
+			"socialWrapper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mathewgump/mv5/Site"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5140,
+								5140
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1811.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/site_main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1022,
+								1022
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/site_main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10058,
+								10058
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
