@@ -4,108 +4,24 @@
 		"selected_items":
 		[
 			[
-				"inlin",
-				"inline-block"
-			],
-			[
-				"mar",
-				"margin-bottom"
-			],
-			[
-				"border",
-				"border-radius"
-			],
-			[
-				"color-lv",
-				"color-lv6"
-			],
-			[
-				"fom",
-				"fontfamily-lv1"
-			],
-			[
 				"h",
 				"href	Attr"
 			],
 			[
-				"borde",
-				"border-radius"
+				"lang",
+				"langActive"
 			],
 			[
-				"te",
-				"text-indent"
+				"b",
+				"background"
 			],
 			[
-				"padding",
-				"padding-top"
+				"data",
+				"data-lang"
 			],
 			[
-				"colo",
-				"color-lv3"
-			],
-			[
-				"no",
-				"none"
-			],
-			[
-				"bor",
-				"border"
-			],
-			[
-				"in",
-				"inherit"
-			],
-			[
-				"color",
-				"color-primary"
-			],
-			[
-				"inl",
-				"inline-block"
-			],
-			[
-				"min",
-				"min-width"
-			],
-			[
-				"trans",
-				"transition"
-			],
-			[
-				"max",
-				"max-width"
-			],
-			[
-				"margin",
-				"margin-top"
-			],
-			[
-				"pad",
-				"padding-left"
-			],
-			[
-				"web",
-				"webkit-transform"
-			],
-			[
-				"z",
-				"z-index"
-			],
-			[
-				"ma",
-				"margin-left"
-			],
-			[
-				"border-b",
-				"border-bottom"
-			],
-			[
-				"po",
-				"position"
-			],
-			[
-				"text",
-				"text-align"
+				"fun",
+				"function"
 			],
 			[
 				"A",
@@ -114,6 +30,14 @@
 			[
 				"spac",
 				"word-spacing"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-bottom"
 			],
 			[
 				"back",
@@ -128,8 +52,8 @@
 				"font-size"
 			],
 			[
-				"b",
-				"border"
+				"te",
+				"text-transform"
 			],
 			[
 				"bo",
@@ -160,6 +84,10 @@
 				"padding"
 			],
 			[
+				"border",
+				"border-top"
+			],
+			[
 				"n",
 				"nowrap"
 			],
@@ -168,8 +96,20 @@
 				"setHeight"
 			],
 			[
+				"pad",
+				"padding"
+			],
+			[
 				"Du",
 				"Duke-Fill"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
 			],
 			[
 				"ba",
@@ -228,6 +168,10 @@
 				"display"
 			],
 			[
+				"in",
+				"inline-block"
+			],
+			[
 				"wi",
 				"width"
 			],
@@ -260,6 +204,10 @@
 				"headerVideo"
 			],
 			[
+				"no",
+				"no-repeat"
+			],
+			[
 				"c",
 				"class	Attr"
 			],
@@ -272,8 +220,8 @@
 				"line-height"
 			],
 			[
-				"lang",
-				"langSelect"
+				"text",
+				"text-center"
 			],
 			[
 				"lan",
@@ -299,15 +247,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7624,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/site_main.js",
-			"settings":
-			{
-				"buffer_size": 2830,
+				"buffer_size": 7623,
 				"line_ending": "Unix"
 			}
 		},
@@ -332,7 +272,7 @@
 			],
 			[
 				"Package Control: ",
-				"Package Control: Install Package"
+				"Package Control: Remove Package"
 			]
 		],
 		"width": 521.0
@@ -356,34 +296,27 @@
 	},
 	"file_history":
 	[
-		"/Users/mathewgump/mv5/Site/CHANGELOG.md",
-		"/Users/mathewgump/mv5/Site/doc/TOC.md",
-		"/Users/mathewgump/mv5/Site/README.md",
-		"/Users/mathewgump/mv5/Site/sass/_grid.scss",
-		"/Users/mathewgump/mv5/Site/sass/_helpers.scss",
-		"/Users/mathewgump/mv5/Site/sass/_reset.scss",
-		"/Users/mathewgump/mv5/Site/js/site_main.js",
-		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/americanstory.sublime-workspace",
-		"/Users/mathewgump/mv5/Site/css/site_main.css",
-		"/Users/mathewgump/mv5/Site/sass/site_main.scss",
-		"/Users/mathewgump/mv5/Site/css/main.css",
-		"/Users/mathewgump/mv5/Site/sass/main.scss",
-		"/Users/mathewgump/mv5/Site/config.rb",
-		"/Users/mathewgump/mv5/Site/test/.sass-cache/af284cab8f6fffc6a1930b4c4d7db7a0e7c55cb6/screen.scssc",
-		"/Users/mathewgump/mv5/Site/sass/site_main.scss.css",
-		"/Users/mathewgump/Desktop/Mv5/Site/config.rb",
-		"/Users/mathewgump/Desktop/Mv5/Site/js/jquery-2.1.1.min.js",
-		"/Users/mathewgump/Desktop/Mv5/Site/mv5.sublime-workspace",
-		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/framing-nailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/sp/drywall-autoload-knife/index.html",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/sp/framing-nailer/index.html",
-		"/Users/mathewgump/Documents/Projects/• DEWALT/• 2013/130820_Heated Jacket Legal/Site/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/site_main.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/framing-nailer/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/drywall-autoload-knife/index.html",
+		"/Users/mathewgump/mv5/Site/mv5.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/americanstory.sublime-workspace",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/js/site_main.js",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins/tooltipster.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins_min.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/includes/footer_social.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/site_knife.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/drywall-knife/index.html",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/includes/footer_legal.html",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/site_nailer.css",
+		"/Users/mathewgump/Documents/Projects/• DEWALT/• 2013/130820_Heated Jacket Legal/Site/index.html",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/sp/OLD framing-nailer/index.html",
 		"/Users/mathewgump/Desktop/index.html",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/js/hoverintent.js",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/index.html",
-		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins_min.css",
-		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/plugins.css",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/maindewalt.css",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/site/css/colorbox.css",
 		"/Users/mathewgump/Documents/Projects/• DEWALT/140201_American Story/ENGLISH/framing-nailer/index 2.html",
@@ -439,7 +372,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -453,75 +386,37 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"<h3>Professio",
-			"        <a class=\"btn btn--fullWidth\" target=\"_blank\" href=\"\">Launch Site</a>\n",
-			"<div class=\"unit size1of1-xs size1of3-md\">",
-			"div class=\"line\">",
-			"  transition: all ease 0.25s;\n",
-			"  -webkit-transition: all ease 0.25s;\n",
-			"hanks",
-			"This is a test",
-			"success",
-			"90",
-			"200px",
-			"width",
-			"1s",
-			"margin",
-			"focus",
-			"this",
-			"hightlight",
-			"background",
-			"border: 1px solid $color-lv6",
-			"background",
-			"color: $color-lv2;",
-			"background: $color-lv5;",
-			"color:",
-			"primary",
-			"background",
-			"below18",
-			"<input",
-			"<label",
-			"label",
-			"10px",
-			"color",
-			"b2b2b2",
-			"c4c4c4",
-			"#5ec7f8",
-			"md",
-			"lg",
-			"960",
-			"      -moz-transform: scale(.9999);\n",
-			"l",
-			"md",
-			"sm",
-			"size",
-			"margin",
-			"1",
-			"width",
-			"2",
-			"intro",
-			"4c4c4c",
-			"1.1",
-			"05d",
-			"199c9c",
-			"fff",
-			"50",
-			"5b5b5b",
-			"intro",
-			"Intro",
-			"intro",
-			"contact",
-			"h2",
-			"a",
-			"#257f7f",
-			"fff",
-			"1000px",
-			"100px",
-			"wrapperSection",
-			"6",
-			"20",
-			"60",
-			"20",
+			"Coming Soon",
+			"h5",
+			"http://www.dewalt.com/tools/hand-tools-cutting-tools-knives-dwht10261.aspx",
+			"™",
+			"eGr4SB-UcFM",
+			"Learn more",
+			"Coming Soon",
+			"../img",
+			"http://dewalt.com/tool-parts/circular-saw-blades-precision-series-portable-dw3599b10.aspx",
+			"activeLang",
+			"eGK4xM4p_Uk",
+			"Learn more",
+			"<area",
+			"http://dewalt.com/tool-parts/framing-nails_2-clipped-head-dpts12d131g.aspx",
+			"..",
+			"../",
+			"..",
+			" -->",
+			"<!-- ",
+			"../",
+			"drywall-knife",
+			"../img/global",
+			"http://dewalt.com/tools/hand-tools-cutting-tools-saws-dwht20540.aspx",
+			"Jab Saw",
+			"http://dewalt.com/tools/saws-circular-saws-dwe575.aspx",
+			"lv1",
+			"size1of3",
+			"h4",
+			"*",
+			"nowrap",
+			"test",
 			"50",
 			"44",
 			"36",
@@ -580,7 +475,45 @@
 			"&amp;",
 			"\"",
 			"&",
-			"socialWrapper"
+			"socialWrapper",
+			"background",
+			"900",
+			"0",
+			"h4",
+			"http://dewalt.com/tools/saws-circular-saws-dwe575.aspx",
+			"<a class=\"btn panelBtn\"",
+			"svg",
+			"alt=",
+			"alt",
+			"ndash",
+			"20",
+			"12",
+			"p",
+			"color-lv 1",
+			"v5",
+			"-lv2",
+			"or-lv4",
+			"color-lv3",
+			"h1",
+			"240",
+			"255",
+			"75",
+			"http://dewalt.com/tools/saws-circular-saws-dwe575.aspx",
+			"        <a class=\"hotspot\" href=\"http://dewalt.com/tools/saws-circular-saws-dwe575.aspx\"></a>",
+			"        <a class=\"hotspot\" href=\"http://dewalt.com/tools/saws-circular-saws-dwe575.aspx\"></a>\n",
+			"155",
+			"0",
+			"gone",
+			"hotspot",
+			"30",
+			"-lv4\"",
+			"highlight-lv1",
+			"span",
+			"strong",
+			"sprong",
+			"strong",
+			"<span",
+			"</b>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -595,17 +528,10 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"follow_symlinks": true,
-			"path": "/Users/mathewgump/mv5/Site"
-		}
-	],
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -614,15 +540,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7624,
+						"buffer_size": 7623,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5140,
-								5140
+								3458,
+								3458
 							]
 						],
 						"settings":
@@ -675,97 +601,26 @@
 								"bh_regex_open",
 								"bh_regex_close"
 							],
+							"spell_check": true,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1811.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/site_main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2830,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1022,
-								1022
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 887.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "sass/site_main.scss",
 					"semi_transient": false,
 					"settings":
@@ -777,8 +632,8 @@
 						"selection":
 						[
 							[
-								10058,
-								10058
+								0,
+								0
 							]
 						],
 						"settings":
@@ -786,34 +641,14 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -822,6 +657,14 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -829,17 +672,29 @@
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
-								"bh_double_quote_close"
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
 							],
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9193.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -851,7 +706,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -862,11 +717,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -880,7 +742,7 @@
 	{
 		"height": 0.0
 	},
-	"project": "",
+	"project": "me.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -917,7 +779,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 159.0,
+	"side_bar_width": 185.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
