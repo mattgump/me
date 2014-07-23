@@ -818,8 +818,8 @@ p {
   width: 0;
   height: 0;
   border-top: 120px solid transparent;
-  border-right: 1200px solid #7f7f7f;
-  border-left: 1200px solid #7f7f7f;
+  border-right: 1200px solid #a6a6a6;
+  border-left: 1200px solid #595959;
   content: "";
   -webkit-transform: scale(0.9999);
   transform: scale(0.9999);
