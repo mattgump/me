@@ -32,6 +32,10 @@
 </head>
 <body>
 
+<!--[if lt IE 9]>
+  <h1>Hm. You should upgrade your copy of Internet Explorer.</h1>
+<![endif]-->
+
 <!--
 **********************************************************
 Site Header/Navigation
@@ -151,7 +155,7 @@ Contact Form
       <div class="lastUnit size1of1-xs size5of8-sm">
         <label class="color-lv4" for="comment">Message*</label>
         <textarea class="below24" id="comment" name="comment" required="required" placeholder="What's on your mind?"></textarea>
-        <input class="below12" type="submit" id="submit">
+        <input class="below12" type="submit" id="submit" value="Submit">
       </div>
       </fieldset>
     </div><!-- end .line -->
@@ -185,6 +189,14 @@ Scripts
     }
 </script>
 <script type="text/javascript" src="js/site_main.js"></script>
+<!-- Google Analytics -->
+<script>
+  var _gaq=[['_setAccount','UA-32237006-1'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s);}(document,'script'));
+</script>
+<!-- end Google Analytics -->
 
 </body>
 </html>

@@ -974,21 +974,22 @@ textarea {
   width: 100%;
   background: white;
   color: black;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 textarea::-webkit-input-placeholder {
   color: black;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 textarea:-moz-placeholder {
   color: black;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 textarea:-ms-input-placeholder {
   color: black;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 input[type=submit] {
