@@ -13,6 +13,7 @@
 $site-max-w: 960px;
 
 $fontfamily-lv1: 'Alegreya Sans SC', Helvetica, Arial, sans-serif;
+$fontfamily-lv2: Helvetica, Arial, sans-serif;
 
 /* Color Palette
    ========================================================================== */
@@ -594,21 +595,22 @@ textarea {
   width: 100%;
   background: $color-lv1;
   color: $color-lv7;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: $fontfamily-lv2;
 }
 
 textarea::-webkit-input-placeholder  {
   color: $color-lv7;
+  font-family: $fontfamily-lv2;
 }
 
 textarea:-moz-placeholder {
   color: $color-lv7;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: $fontfamily-lv2;
 }
 
 textarea:-ms-input-placeholder {
   color: $color-lv7;
-  font: 'Helvetica Neue', helvetica, arial, sans;
+  font-family: $fontfamily-lv2;
 }
 
 input[type=submit] {
