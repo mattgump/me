@@ -247,7 +247,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9587,
+				"buffer_size": 9586,
 				"line_ending": "Unix"
 			}
 		},
@@ -551,15 +551,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9587,
+						"buffer_size": 9586,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4473,
-								4473
+								4438,
+								4438
 							]
 						],
 						"settings":
