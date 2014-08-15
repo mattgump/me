@@ -930,7 +930,6 @@ p {
 .wrapperSection-contact {
   padding: 60px 0;
   background: #a6a6a6 url("../img/bg_mglogo.svg") no-repeat 0 -110px;
-  border-top: 1px solid #a6a6a6;
 }
 
 .section-contact {
@@ -1000,7 +999,7 @@ input[type=submit] {
   color: black;
   line-height: 25px;
   cursor: pointer;
-  background: #aee300;
+  background: #a5d600;
 }
 
 input[type=submit]:hover {
