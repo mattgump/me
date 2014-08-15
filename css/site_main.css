@@ -1000,7 +1000,7 @@ input[type=submit] {
   color: black;
   line-height: 25px;
   cursor: pointer;
-  background: #7f7f7f;
+  background: #aee300;
 }
 
 input[type=submit]:hover {
