@@ -526,14 +526,6 @@ p {
   margin-bottom: 120px;
 }
 
-// .sample-description {
-
-//   .btn {
-//     display: none;
-//   }
-
-// }
-
 .sample-graphic {
 
   img {
@@ -550,7 +542,8 @@ p {
 
 .wrapperSection-contact {
   padding: 60px 0;
-  background: $color-lv6 url('../img/bg_mglogo.svg') no-repeat 0 -110px;
+  background: $color-lv3 url('../img/bg_mglogo.svg') no-repeat 0 -110px;
+  border-top: 1px solid $color-lv3;
 }
 
 .section-contact {
@@ -581,11 +574,11 @@ input {
 }
 
 ::-webkit-input-placeholder  {
-  color: $color-lv7;
+  color: $color-lv4;
 }
 
 input:-moz-placeholder {
-  color: $color-lv7;
+  color: $color-lv4;
 }
 
 textarea {
@@ -599,17 +592,17 @@ textarea {
 }
 
 textarea::-webkit-input-placeholder  {
-  color: $color-lv7;
+  color: $color-lv4;
   font-family: $fontfamily-lv2;
 }
 
 textarea:-moz-placeholder {
-  color: $color-lv7;
+  color: $color-lv4;
   font-family: $fontfamily-lv2;
 }
 
 textarea:-ms-input-placeholder {
-  color: $color-lv7;
+  color: $color-lv4;
   font-family: $fontfamily-lv2;
 }
 
@@ -620,6 +613,7 @@ input[type=submit] {
   color: $color-lv7;
   line-height: 25px;
   cursor: pointer;
+  background: $color-lv4;
 }
 
 input[type=submit]:hover {
@@ -654,7 +648,7 @@ input.loading, input.loading:hover {
    ========================================================================== */
 
 .wrapperSection-footer {
-  background: $color-lv7;
+  background: $color-lv1;
 }
 
 .footer-site {

@@ -929,7 +929,8 @@ p {
    ========================================================================== */
 .wrapperSection-contact {
   padding: 60px 0;
-  background: #333333 url("../img/bg_mglogo.svg") no-repeat 0 -110px;
+  background: #a6a6a6 url("../img/bg_mglogo.svg") no-repeat 0 -110px;
+  border-top: 1px solid #a6a6a6;
 }
 
 .section-contact {
@@ -960,11 +961,11 @@ input {
 }
 
 ::-webkit-input-placeholder {
-  color: black;
+  color: #7f7f7f;
 }
 
 input:-moz-placeholder {
-  color: black;
+  color: #7f7f7f;
 }
 
 textarea {
@@ -978,17 +979,17 @@ textarea {
 }
 
 textarea::-webkit-input-placeholder {
-  color: black;
+  color: #7f7f7f;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 textarea:-moz-placeholder {
-  color: black;
+  color: #7f7f7f;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 textarea:-ms-input-placeholder {
-  color: black;
+  color: #7f7f7f;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -999,6 +1000,7 @@ input[type=submit] {
   color: black;
   line-height: 25px;
   cursor: pointer;
+  background: #7f7f7f;
 }
 
 input[type=submit]:hover {
@@ -1030,7 +1032,7 @@ input.loading, input.loading:hover {
    Footer
    ========================================================================== */
 .wrapperSection-footer {
-  background: black;
+  background: white;
 }
 
 .footer-site {
